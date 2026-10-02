@@ -34,11 +34,11 @@ Come puoi distinguere ciò che stampa il programma da ciò che mostra il termina
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:I file sorgente modificati (es. .c o file di testo) tramite git add, per tracciare le modifiche del laboratorio.
+Quali file ho incluso nel commit e perché: i file sorgente modificati (es. .c o file di testo) tramite git add, per tracciare le modifiche del laboratorio.
 
 Come ho verificato che la versione provata sia presente su GitHub:git status
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:perche sta gia su git hub
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: perche' e' gia' su github
 
 ## Step 2 — Eco: prima prova
 
